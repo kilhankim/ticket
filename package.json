@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "ExampleTicketWebServer",
   "dependencies": {
-    "express": "4.4.x",
+    "express": "4.17.x",
     "ec2metadata": "0.1.x",
     "socket.io": "1.0.x",
     "sequelize": "1.7.x",
