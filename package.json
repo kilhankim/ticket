@@ -7,7 +7,7 @@
     "ec2metadata": "0.1.x",
     "socket.io": "1.0.x",
     "sequelize": "1.7.x",
-    "mysql": "2.3.2",
+    "mysql": "2.18.1",
     "redis": "0.10.x"
   }
 }
